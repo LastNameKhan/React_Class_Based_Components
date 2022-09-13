@@ -1,0 +1,129 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Local Todo 1",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "value": "Local Todo 2",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "value": "Local Todo 3",
+      "isCompleted": true
+    },
+    {
+      "text": "ABCD",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "text": "ABCD",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "text": "ABCD",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "text": "1234",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "text": "1234",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "text": "aman",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "text": "New",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 12
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 13
+    },
+    {
+      "text": "aman",
+      "isCompleted": false,
+      "id": 14
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 15
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 16
+    },
+    {
+      "text": "old",
+      "isCompleted": false,
+      "id": 17
+    },
+    {
+      "text": "newtodo",
+      "isCompleted": false,
+      "id": 18
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 19
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 20
+    },
+    {
+      "text": "hello",
+      "isCompleted": false,
+      "id": 21
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 22
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 23
+    },
+    {
+      "text": "new",
+      "isCompleted": false,
+      "id": 24
+    },
+    {
+      "value": "new",
+      "isCompleted": false,
+      "id": 25
+    }
+  ]
+}
